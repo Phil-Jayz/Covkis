@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-covkis-dev-123730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::134364338451:role/amplify-covkis-dev-123730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::134364338451:role/amplify-covkis-dev-123730-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-covkis-dev-123730-deployment",
+      "UnauthRoleName": "amplify-covkis-dev-123730-unauthRole",
+      "StackName": "amplify-covkis-dev-123730",
+      "StackId": "arn:aws:cloudformation:us-east-1:134364338451:stack/amplify-covkis-dev-123730/c7175c60-ae91-11eb-8cfc-0e1cfc6fd327",
+      "AmplifyAppId": "d2udb9pibeh7x9"
+    },
+    "categories": {
+      "auth": {
+        "covkisdd82a0cb": {}
+      }
+    }
+  }
+}
